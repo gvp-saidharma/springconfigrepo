@@ -3,3 +3,5 @@ spring:
     name: test test 
 server:
   port: 8081
+my:
+  greet: hello everyone
